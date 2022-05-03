@@ -23,3 +23,5 @@ https://gabrielsfcoelho.github.io/Testes_e_Projetos/Darkmode/darkmode1/
 https://gabrielsfcoelho.github.io/Testes_e_Projetos/Darkmode/darkmode2/
 ## Login Animado
 https://gabrielsfcoelho.github.io/Testes_e_Projetos/Login%20animado/
+## DarkMode + Checkbox + Icon Voando
+https://gabrielsfcoelho.github.io/Testes_e_Projetos/Darkmode_Checkbox_IconVoando/
