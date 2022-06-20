@@ -1,0 +1,21 @@
+const dadosArmazenados = localStorage;
+
+class Financeiro {
+	constructor() {
+		this.renderizarNomeFinanceiro();
+		
+    
+	}
+
+	getUsuarioLogado() {
+		var params = (new URL(document.location)).searchParams;
+		return params.get('usuarioLogado');
+
+	}
+
+	renderizarNomeFinanceiro() {
+		$('#PessoaLogada').html("Bem vindo(a) "+this.getUsuarioLogado());
+	}
+
+}
+financeiro = new Financeiro();
